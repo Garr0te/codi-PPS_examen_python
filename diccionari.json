@@ -1,0 +1,36 @@
+
+{
+    "alumnes": [
+      {
+        "nom": "Pepe Botella",
+        "data_naiximent": "10-02-2005"
+        
+      },
+      {
+        "nom": "Rafa Nadal",
+        "data_naiximent": "09-02-2005"
+       
+      },
+      {
+        "nom": "Pedro Pasqua",
+        "data_naiximent": "10-02-2003"
+        
+      },
+
+      {
+        "nom": "Manolo Mata",
+        "data_naiximent": "09-02-2008"
+
+      },
+      {
+        "nom": "Juan Gris",
+        "data_naiximent": "10-02-2000"
+
+      },
+
+      {
+        "nom": "Maria Debe",
+        "data_naiximent": "10-02-1998"
+      }
+    ]
+}
